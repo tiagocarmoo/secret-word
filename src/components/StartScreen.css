@@ -1,0 +1,9 @@
+.StartScreen h1 {
+    font-size: 3.5rem;
+}
+
+.StartScreen p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    color: rgb(222, 190, 150);
+}
